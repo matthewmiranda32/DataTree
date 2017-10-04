@@ -1,0 +1,6 @@
+c:\users\matthew miranda\documents\visual studio 2015\Projects\DataTree.cs\DataTree.cs\bin\Debug\DataTree.cs.exe.config
+c:\users\matthew miranda\documents\visual studio 2015\Projects\DataTree.cs\DataTree.cs\bin\Debug\DataTree.cs.exe
+c:\users\matthew miranda\documents\visual studio 2015\Projects\DataTree.cs\DataTree.cs\bin\Debug\DataTree.cs.pdb
+c:\users\matthew miranda\documents\visual studio 2015\Projects\DataTree.cs\DataTree.cs\obj\Debug\DataTree.cs.csprojResolveAssemblyReference.cache
+c:\users\matthew miranda\documents\visual studio 2015\Projects\DataTree.cs\DataTree.cs\obj\Debug\DataTree.cs.exe
+c:\users\matthew miranda\documents\visual studio 2015\Projects\DataTree.cs\DataTree.cs\obj\Debug\DataTree.cs.pdb
